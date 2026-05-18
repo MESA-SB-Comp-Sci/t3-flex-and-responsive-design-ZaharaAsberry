@@ -11,7 +11,7 @@ header{
 
 .middle-section{
   height:60vh;
-  background-color: aliceblue;
+  background-color: rgb(255, 255, 255);
   display:flex;
   flex-direction:row;
 width:90vw;
@@ -29,16 +29,16 @@ aside{
 .image-section{
   display:flex;
   flex-direction: column;
-  background-color: aliceblue;
+  background-color: rgb(255, 255, 255);
   text-align: left;
   width:100vw;
   height:20%;
-  
+
 }
 
 footer{
 width: 100vw;
-height:16vh;
+height:18vh;
   background-color: lime;
   display: flex;
 
